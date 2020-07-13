@@ -21,8 +21,6 @@ Requires at least TWO Raspberry Pis to complete, this coding project introduces 
 **GSOC Raspberry Pi Web Serving Weather Station.pdf**
 A more complicated project which should only be undertaken after completing the LED light project.  Recommended for Cadettes, Seniors and Ambassadors.  Girls will configure a web page that will display data from a humidity and temperature sensor.  The Raspberry Pi is then configured as a web page so the results can be displayed on a phone or laptop connected to the same WiFi network.
 
-Note that the CODE folder contains examples of coding resources used in the projects documented above.
-
 Disclaimer:  I am a volunteer STEM program developer for the Girl Scouts of Orange County.  I am not a staff member of the Girl Scouts of Orange County or the Girls Scouts of America.
 
 > Written with [StackEdit](https://stackedit.io/).
